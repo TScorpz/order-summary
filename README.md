@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/order-summary-component-sDSbXI93B)
 - Live Site URL: [Here](https://tscorpz.github.io/order-summary/)
 
 ## My process
